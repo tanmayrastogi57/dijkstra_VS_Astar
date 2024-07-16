@@ -70,6 +70,3 @@ Here’s a quick summary of the strengths and weaknesses:
 
 ## Conclusion
 In the end, both Dijkstra’s and A\* are powerful tools in the pathfinding toolkit. Dijkstra’s is your go-to for a guaranteed shortest path, especially when you don’t have a good heuristic. A\* is your hero when you need speed and have a good heuristic in your pocket. Whether you’re navigating a city, plotting a game character’s movements, or programming a robot, understanding these algorithms will help you find the best path.
-
-## Further Reading
-If you're keen to dive deeper, check out some academic papers, textbooks, or online resources. These will provide more in-depth explanations and advanced variations of these algorithms.
